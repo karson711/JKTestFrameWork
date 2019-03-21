@@ -1,0 +1,6 @@
+framework module JKTestFrameWork {
+  umbrella header "JKTestFrameWork.h"
+
+  export *
+  module * { export * }
+}
