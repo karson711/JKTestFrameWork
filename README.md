@@ -3,7 +3,7 @@
 
 使用方式如下：
 
-    - <1>、导入 #import "JKRecorderKit.h"
+    - <1>、导入 #import <JKRecorderKitFramWork/JKRecorderKitFramWork.h>
     - <2>、使用 JKAudioTool 类进行调用 录音的一系列操作，如下
     
       - 开始录音
