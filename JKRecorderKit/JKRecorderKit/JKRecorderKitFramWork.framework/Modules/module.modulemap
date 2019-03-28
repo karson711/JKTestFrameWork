@@ -1,0 +1,6 @@
+framework module JKRecorderKitFramWork {
+  umbrella header "JKRecorderKitFramWork.h"
+
+  export *
+  module * { export * }
+}
